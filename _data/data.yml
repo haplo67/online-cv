@@ -8,54 +8,63 @@ sidebar:
     education: True # set to False if you want education in main section instead of in sidebar
 
     # Profile information
-    name: Alan Doe
-    tagline: Full Stack Developer
+    name: Matthieu Le Gac
+    tagline: Chef de projets informatiques
     avatar: profile.png  #place a 100x100 picture inside /assets/images/ folder and provide the name of the file below
 
     # Sidebar links
-    email: hello@webjeda.com
-    phone: 012 345 6789
-    timezone: America/Cancun Timezone
+    email: matthieu.le.gac@gmail.com
+    phone: 06 98 29 20 52
+    timezone: Europe/Paris
     citizenship:
-    website: blog.webjeda.com #do not add http://
-    linkedin: alandoe
-    xing: alandoe
-    github: sharu725
+    website: haplo67.github.io/online-cv/ #do not add http://
+    linkedin: xxx
+    xing: 
+    github: haplo67
     telegram: # add your nickname without '@' sign
     gitlab:
     bitbucket:
-    twitter: '@webjeda'
+    twitter: '@haplo67'
     stack-overflow: # Number/Username, e.g. 123456/alandoe
     codewars:
     goodreads: # Number-Username, e.g. 123456-alandoe
-    pdf: http://www.africau.edu/images/default/sample.pdf
+    pdf: https://haplo67.github.io/online-cv/default/sample.pdf
 
     languages:
-      title: Languages
+      title: Langues
       info:
-        - idiom: English
-          level: Native
+        - idiom: Français
+          level: Langue maternelle
 
-        - idiom: French
-          level: Professional
+        - idiom: Anglais
+          level: Bonne maitrise
 
-        - idiom: Spanish
-          level: Professional
+        - idiom: Allemand
+          level: Scolaire
+          
+        - idiom: Farsi
+          level: Notions
 
     interests:
-      title: Interests
+      title: Intérêts
       info:
-        - item: Climbing
+        - item: Tennis de table
           link:
 
-        - item: Snowboarding
+        - item: Domotique
+          link:
+          
+        - item: Programmation
           link:
 
-        - item: Cooking
+        - item: Cuisine
           link:
+          
+        - item: Bricolage
+          link: 
 
 career-profile:
-    title: Career Profile
+    title: Expérience professionnelle
     summary: |
       Summarise your career here lorem ipsum dolor sit amet, consectetuer
       adipiscing elit. You can [download this free resume/CV template here]().
@@ -64,7 +73,7 @@ career-profile:
       Donec quam felis, ultricies nec, pellentesque eu.
       Second paragraph if required.
 education:
-    title: Education
+    title: Cursus scolaire
     info:
       - degree: MSc in Computer Science
         university: University of London
@@ -89,7 +98,7 @@ education:
             - Bullet point
             - Bullet point
 experiences:
-    title: Experiences
+    title: Expérience professionnelle
     info:
       - role: Lead Developer
         time: 2015 - Present
@@ -130,7 +139,7 @@ experiences:
             - Bullet point
 
 certifications:
-      title: Certifications
+      title: Formations
       list:
         - name: CV Builder
           start: 2020
@@ -171,7 +180,7 @@ certifications:
             Praesent venenatis erat non augue suscipit consectetur. 
         
 projects:
-    title: Projects
+    title: Projets
     intro: >
       You can list your side projects in this
       section. Lorem ipsum dolor sit amet, consectetur adipiscing elit.
@@ -239,26 +248,26 @@ publications:
         conference: "Comm. ACM 4 (1961), 51–55"
 
 skills:
-    title: Skills &amp; Proficiency
+    title: Langages de programmation
 
     toolset:
-      - name: Python & Django
-        level: 98%
-
-      - name: Javascript & jQuery
-        level: 98%
-
-      - name: Angular
-        level: 98%
-
-      - name: HTML5 & CSS
+      - name: COBOL
         level: 95%
 
-      - name: Ruby on Rails
-        level: 85%
+      - name: C#
+        level: 95%
 
-      - name: Sketch & Photoshop
+      - name: React Native
         level: 60%
+
+      - name: HTML5 & CSS
+        level: 60%
+
+      - name: Python
+        level: 55%
+
+      - name: Lua
+        level: 55%
 
 footer: >
     Designed with <i class="fas fa-heart"></i> by <a href="http://themes.3rdwavemedia.com" target="_blank" rel="nofollow">Xiaoying Riley</a>
