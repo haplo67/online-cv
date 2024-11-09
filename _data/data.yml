@@ -18,7 +18,7 @@ sidebar:
     timezone: Europe/Paris
     citizenship:
     website: haplo67.github.io/online-cv/ #do not add http://
-    linkedin: xxx
+    linkedin: matthieu-le-gac
     xing: 
     github: haplo67
     telegram: # add your nickname without '@' sign
@@ -64,60 +64,32 @@ sidebar:
           link: 
 
 career-profile:
-    title: Expérience professionnelle
+    title: Carrière
     summary: |
-      Summarise your career here lorem ipsum dolor sit amet, consectetuer
-      adipiscing elit. You can [download this free resume/CV template here]().
-      Aenean commodo ligula eget dolor aenean massa. Cum sociis natoque
-      penatibus et magnis dis parturient montes, nascetur ridiculus mus.
-      Donec quam felis, ultricies nec, pellentesque eu.
-      Second paragraph if required.
+      J'ai débuté ma carriere en 2007, dans une societe de services en informatique, comme analyste-programmeur. 
 education:
     title: Cursus scolaire
     info:
-      - degree: MSc in Computer Science
-        university: University of London
-        time: 2011 - 2012
-        details: |
-          Describe your study here lorem ipsum dolor sit amet, consectetuer
-          adipiscing elit. Aenean commodo ligula eget dolor. Aenean massa. Cum
-          sociis natoque penatibus et magnis dis parturient montes, nascetur
-          ridiculus mus. Donec quam felis, ultricies nec, pellentesque eu,
-          pretium quis, sem.
-            - Bullet point
-            - Bullet point
-      - degree: BSc in Applied Mathematics
-        university: Bristol University
-        time: 2007 - 2011
-        details: |
-          Describe your study here lorem ipsum dolor sit amet, consectetuer
-          adipiscing elit. Aenean commodo ligula eget dolor. Aenean massa. Cum
-          sociis natoque penatibus et magnis dis parturient montes, nascetur
-          ridiculus mus. Donec quam felis, ultricies nec, pellentesque eu,
-          pretium quis, sem.
-            - Bullet point
-            - Bullet point
+      - degree: BTS en informatique de gestion
+        university: Lycée René Cassin (Strasbourg)
+        time: 2007
+        details: 
+      - degree: Baccalauréat général, filière scientifique (spécialité physique-chimie)
+        university: Lycée Marguerite Yourcenar (Erstein)
+        time: 2004
+        details: 
 experiences:
     title: Expérience professionnelle
     info:
-      - role: Lead Developer
-        time: 2015 - Present
-        company: Startup Hubs, San Francisco
+      - role: Chef de projets informatiques
+        time: 2020 - Present
+        company: Euro Information Développement, Schiltigheim
         details: |
-          Describe your role here lorem ipsum dolor sit amet, consectetuer
-          adipiscing elit. Aenean commodo ligula eget dolor. Aenean massa.
-          Cum sociis natoque penatibus et magnis dis parturient montes,
-          nascetur ridiculus mus. Donec quam felis, ultricies nec,
-          pellentesque eu, pretium quis, sem. Nulla consequat massa quis
-          enim. Donec pede justo. Sed ut perspiciatis unde omnis iste natus
-          error sit voluptatem accusantium doloremque laudantium, totam rem
-          aperiam, eaque ipsa quae ab illo inventore veritatis et quasi
-          architecto beatae vitae dicta sunt explicabo.
-            - Bullet point
-            - Bullet point
-      - role: Senior Software Engineer
-        time: 2014 - 2015
-        company: Google, London
+          Gestion d'une application permettant de gérer les donnees de facturation des clients et fournisseurs d'un grand nombre de sociétés du groupe (caisses locales, Sofédis, Ensemble Gestion, filières de leasing...).
+          Gestion d'un moteur de recherche des clients et fournisseurs d'un grand nombre de sociétés du groupe.
+      - role: Analyste-programmeur
+        time: 2012-2020
+        company: Euro Information Développement, Schiltigheim
         details: |
           Describe your role here lorem ipsum dolor sit amet, consectetuer
           adipiscing elit. Aenean commodo ligula eget dolor. Aenean massa.
@@ -126,28 +98,37 @@ experiences:
           pellentesque eu, pretium quis, sem.
             - Bullet point
             - Bullet point
-      - role: UI Developer
-        time: 2012 - 2014
-        company: Amazon, London
+      - role: Analyste
+        time: 2011-2012
+        company: Logica, Illkirch-Graffenstaden
         details: |
-          Describe your role here lorem ipsum dolor sit amet, consectetuer
-          adipiscing elit. Aenean commodo ligula eget dolor. Aenean massa.
-          Cum sociis natoque penatibus et magnis dis parturient montes,
-          nascetur ridiculus mus. Donec quam felis, ultricies nec,
-          pellentesque eu, pretium quis, sem.
-            - Bullet point
-            - Bullet point
+          Analyse, développement et pilotage des activités bancaires et presse d’un grand groupe bancaire. 
+            - Gestion des projets convergence 2014 (pilotage)
+            - Gestion des abonnements des différents journaux du Crédit Mutuel (pilotage)
+            - Gestion des tournées de portage des journaux du Crédit Mutuel (pilotage)
+            - Gestion des déclarations fiscales DAS2 (analyse et pilotage) : déclaration annuelle des commissions des sociétés non bancaires
+            
+        - role: Analyste-programmeur
+          time: 2011-2012
+          company: Logica, Illkirch-Graffenstaden
+          details: |
+            Analyse et développement des activités bancaires et presse d’un grand groupe bancaire. 
+              - Gestion de l’application « Grands Risques » (analyse / développement)
+              - Gestion des événements statutaires (développement) : Application permettant la gestion et l’édition d’invitations aux assemblées générales des caisses du Crédit Mutuel
+              - Gestion des transferts entre banques de livrets bleus – FICOBA (développement)
+              - Gestion des tiers clients et fournisseurs (développement)
+              - Gestion des « transferts faciles » (développement) : Faciliter aux clients le changement de domiciliation bancaire dans le cadre d’un changement de banque
 
 certifications:
       title: Formations
       list:
-        - name: CV Builder
-          start: 2020
-          end: 2021
-          organization: Microsoft
-          credentialid: 111-222
-          credentialurl: www.google.com
-          credentialname: Google
+        - name: Sécurité des applications (CEH)
+          start: 2024
+          end: 2024
+          organization: Euro Information Développement
+          credentialid: 
+          credentialurl: 
+          credentialname: 
           details: |
             Details about cert. Lorem ipsum dolor sit amet, consectetur 
             adipiscing elit.
@@ -162,13 +143,13 @@ certifications:
             fringilla vel. Ut euismod, sem sed vulputate venenatis, 
             justo diam viverra velit, sed rhoncus leo leo eu justo.
             Suspendisse placerat risus ante, sed porta nisi blandit at. 
-        - name: Git learning
-          start: 2019
+        - name: Gestion des projets en mode Agile
+          start: 2024
           end:
-          organization: Microsoft
-          credentialid: 111-222
-          credentialurl: www.github.com
-          credentialname: Github
+          organization: Euro Information Développement
+          credentialid: 
+          credentialurl: 
+          credentialname: 
           details: |
             Older certification. Lorem ipsum dolor sit amet, consectetur 
             adipiscing elit.
@@ -182,80 +163,39 @@ certifications:
 projects:
     title: Projets
     intro: >
-      You can list your side projects in this
-      section. Lorem ipsum dolor sit amet, consectetur adipiscing elit.
-      Vestibulum et ligula in nunc bibendum fringilla a eu lectus.
+      L'une de mes grandes passions est la programmation informatique. J'ai travaillé sur un certain nombredeprojets personnels au fil du temps, afin de garder un pied dans le monde de la programmation, pour assurer une veille technologique. 
     assignments:
-      - title: Velocity
+      - title: TimesApp
         link: "#hook"
-        tagline: "A responsive website template designed to help startups promote, market and sell their products."
+        tagline: "Gestion de ses horaires de travail sur un téléphone Android/iOS. Ce projet est codé en MAUI, le framework Android le plus recent de Microsoft."
 
-      - title: DevStudio
+      - title: MemeBox
         link: "#"
-        tagline: "A responsive website template designed to help web developers/designers market their services."
+        tagline: "Un projet visant à jouer un son aléatoire en cliquant sur un bouton. Ce projet simple est à destination des adolescents, et avait pour principal but deme permettre d'apprendre le framework React Native."
 
-      - title: Tempo
+      - title: Strapps
         link: "#"
-        tagline: "A responsive website template designed to help startups promote their products or services and to attract users &amp; investors"
+        tagline: "Une application interfacée sur une API de la CTS, permettant de récupérer les horaires de bus / tram en temps réel. L'un des buts de ce projet est d'apprendre le codage d'application qur une montre connectée."
 
-      - title: Atom
+      - title: Chatty
         link: "#"
-        tagline: "A comprehensive website template solution for startups/developers to market their mobile apps."
-
-      - title: Delta
-        link: "#"
-        tagline: "A responsive Bootstrap one page theme designed to help app developers promote their mobile apps"
-
-oss:
-    title: OSS Contributions
-    intro: >
-      You can list your open source software contributions in this
-      section. Lorem ipsum dolor sit amet, consectetur adipiscing elit.
-      Vestibulum et ligula in nunc bibendum fringilla a eu lectus.
-    contributions:
-      - title: Tempo
-        link: "#"
-        tagline: "A responsive website template designed to help startups promote their products or services and to attract users &amp; investors"
-
-      - title: Atom
-        link: "#"
-        tagline: "A comprehensive website template solution for startups/developers to market their mobile apps."
-
-      - title: Delta
-        link: "#"
-        tagline: "A responsive Bootstrap one page theme designed to help app developers promote their mobile apps"
-
-publications:
-    title: Publications
-    intro: |
-      You can list your publications in this section. Lorem ipsum dolor sit
-      amet, consectetur adipiscing elit. Vestibulum et ligula in nunc
-      bibendum fringilla a eu lectus.
-    papers:
-      - title: The Art of Computer Programming
-        link: "#"
-        authors: Donald E. Knuth
-        conference: Addison-Wesley, 1968
-
-      - title: "Genetic Programming III: Darwinian Invention &amp; Problem Solving"
-        link: "#"
-        authors: Koza, J.R., Andre, D., Bennett, F.H., Keane, M.A.
-        conference: "Morgan Kaufmann Publishers Inc., San Francisco, CA, USA, 1st edn. (1999)"
-
-      - title: A syntax directed compiler for Algol 60
-        link: "#"
-        authors: Edgar T. Irons
-        conference: "Comm. ACM 4 (1961), 51–55"
+        tagline: "Une application de conversation vocale avec une intelligence artificielle, de voix à voix (question posée par l'utilisateur en parlant, et l'intelligence artificielle repond)."
 
 skills:
     title: Langages de programmation
 
     toolset:
       - name: COBOL
-        level: 95%
+        level: 98%
 
       - name: C#
+        level: 98%
+        
+      - name: SQL
         level: 95%
+        
+      - name: Visual Basic
+        level: 90%
 
       - name: React Native
         level: 60%
@@ -268,6 +208,12 @@ skills:
 
       - name: Lua
         level: 55%
+        
+      - name: PHP
+        level: 50%
+        
+      - name: CSS
+        level: 50%
 
 footer: >
     Designed with <i class="fas fa-heart"></i> by <a href="http://themes.3rdwavemedia.com" target="_blank" rel="nofollow">Xiaoying Riley</a>
