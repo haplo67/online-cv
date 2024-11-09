@@ -66,7 +66,8 @@ sidebar:
 career-profile:
     title: Carrière
     summary: |
-      J'ai débuté ma carriere en 2007, dans une societe de services en informatique, comme analyste-programmeur. 
+      J'ai débuté ma carriere en 2007, dans une societe de services en informatique, 
+      comme analyste-programmeur. 
 education:
     title: Cursus scolaire
     info:
@@ -85,8 +86,11 @@ experiences:
         time: 2020 - Present
         company: Euro Information Développement, Schiltigheim
         details: |
-          Gestion d'une application permettant de gérer les donnees de facturation des clients et fournisseurs d'un grand nombre de sociétés du groupe (caisses locales, Sofédis, Ensemble Gestion, filières de leasing...).
-          Gestion d'un moteur de recherche des clients et fournisseurs d'un grand nombre de sociétés du groupe.
+          Gestion d'une application permettant de gérer les donnees de 
+          facturation des clients et fournisseurs d'un grand nombre de sociétés 
+          du groupe (caisses locales, Sofédis, Ensemble Gestion, filières de leasing...).
+          Gestion d'un moteur de recherche des clients et fournisseurs d'un 
+          grand nombre de sociétés du groupe.
       - role: Analyste-programmeur
         time: 2012-2020
         company: Euro Information Développement, Schiltigheim
@@ -102,7 +106,8 @@ experiences:
         time: 2011-2012
         company: Logica, Illkirch-Graffenstaden
         details: |
-          Analyse, développement et pilotage des activités bancaires et presse d’un grand groupe bancaire. 
+          Analyse, développement et pilotage des activités bancaires et presse 
+          d’un grand groupe bancaire. 
             - Gestion des projets convergence 2014 (pilotage)
             - Gestion des abonnements des différents journaux du Crédit Mutuel (pilotage)
             - Gestion des tournées de portage des journaux du Crédit Mutuel (pilotage)
@@ -112,7 +117,8 @@ experiences:
           time: 2011-2012
           company: Logica, Illkirch-Graffenstaden
           details: |
-            Analyse et développement des activités bancaires et presse d’un grand groupe bancaire. 
+            Analyse et développement des activités bancaires et presse d’un 
+            grand groupe bancaire. 
               - Gestion de l’application « Grands Risques » (analyse / développement)
               - Gestion des événements statutaires (développement) : Application permettant la gestion et l’édition d’invitations aux assemblées générales des caisses du Crédit Mutuel
               - Gestion des transferts entre banques de livrets bleus – FICOBA (développement)
@@ -163,7 +169,10 @@ certifications:
 projects:
     title: Projets
     intro: >
-      L'une de mes grandes passions est la programmation informatique. J'ai travaillé sur un certain nombredeprojets personnels au fil du temps, afin de garder un pied dans le monde de la programmation, pour assurer une veille technologique. 
+      L'une de mes grandes passions est la programmation informatique. 
+      J'ai travaillé sur un certain nombre de projets personnels au fil 
+      du temps, afin de garder un pied dans le monde de la programmation, 
+      pour assurer une veille technologique. 
     assignments:
       - title: TimesApp
         link: "#hook"
