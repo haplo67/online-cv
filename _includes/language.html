@@ -10,12 +10,7 @@
     {% for language in languages.info %}
     <li>
       {{ language.idiom }}
-      <!--<span class="lang-desc">({{ language.level }})</span>-->
-      <div class="level-bar">
-        Lu <div class="level-bar-inner white" data-level="{{ language.level.reading }}" />
-        Parlé <div class="level-bar-inner white" data-level="{{ language.level.speaking }}" />
-        Écrit <div class="level-bar-inner white" data-level="{{ language.level.writing }}" />
-      </div><!--//level-bar-->
+      <span class="lang-desc">({{ language.level }})</span>
     </li>
     {% endfor %}
   </ul>
