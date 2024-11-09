@@ -66,20 +66,23 @@ sidebar:
 career-profile:
     title: Carrière
     summary: |
-      J'ai débuté ma carriere en 2007, dans une societe de services en 
-      informatique, comme analyste-programmeur. J'ai intégré une équipe de 6 personnes 
-      d'un centre de services, qui travaillait pour plusieurs secteurs d'un grand groupe 
-      bancaire. Peu à peu, j'ai pu me concentrer de plus en plus sur des analyses 
-      techniques, du pilotage de projets et l'encadrement technique des nouveaux arrivants.
-      En 2011, j'ai été amené à travailler de manière détachée de mon équipe pour 
-      rejoindre une équipe interne du groupe bancaire. En 2012, j'ai finalement rejoint en 
-      tant qu'interne l'équipe dans laquelle je travaillais. 
-      En 2014, j'ai pris un rôle de relais-micro (correspondant technique des technologies 
-      hors mainframe) dans le domaine de mon équipe.
-      En 2020, je suis passé chef de projets informatiques, puis ai pris la responsabilité 
-      en 2021 d'une application gérant les données de facturation des clients et 
-      fournisseurs d'un grand nombre de sociétés du groupe bancaire. 
-      J'exerce ce poste depuis.
+      J'ai débuté ma carrière en 2007 en tant qu'analyste-programmeur au sein d'une société de 
+      services en informatique. J'ai intégré une équipe de six personnes dans un centre de services, 
+      où nous soutenions plusieurs secteurs d'un grand groupe bancaire. Au fil du temps, j'ai 
+      progressivement orienté mes activités vers des analyses techniques plus approfondies, le 
+      pilotage de projets, ainsi que l'encadrement des nouveaux collaborateurs.
+
+      En 2011, j'ai été détaché de mon équipe pour rejoindre une équipe interne du groupe 
+      bancaire, et en 2012, j'ai officiellement intégré cette équipe en tant que membre interne.
+
+      En 2014, j'ai assumé le rôle de relais technique pour les technologies hors mainframe 
+      au sein de mon équipe, qui comptait alors environ 30 personnes.
+
+      En 2020, j'ai évolué vers le poste de chef de projets informatiques, et en 2021, 
+      j'ai pris en charge la responsabilité d'une application dédiée à la gestion des 
+      données de facturation des clients et fournisseurs d'un grand nombre de sociétés 
+      du groupe bancaire. J'occupe ce poste depuis lors.
+      
 education:
     title: Cursus scolaire
     info:
