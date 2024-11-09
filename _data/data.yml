@@ -33,16 +33,28 @@ sidebar:
       title: Langues
       info:
         - idiom: Français
-          level: Langue maternelle
+          level: 
+            reading: 100%
+            writing: 100%
+            speaking: 100%
 
         - idiom: Anglais
-          level: Bonne maitrise (vie courante & professionnelle)
+          level: 
+            reading: 75%
+            writing: 75%
+            speaking: 75%
 
         - idiom: Allemand
-          level: Scolaire
+          level: 
+            reading: 50%
+            writing: 50%
+            speaking: 50%
           
         - idiom: Farsi
-          level: Notions
+          level: 
+            reading: 30%
+            writing: 30%
+            speaking: 30%
 
     interests:
       title: Intérêts
