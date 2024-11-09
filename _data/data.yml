@@ -36,7 +36,7 @@ sidebar:
           level: Langue maternelle
 
         - idiom: Anglais
-          level: Bonne maitrise
+          level: Bonne maitrise (vie courante & professionnelle)
 
         - idiom: Allemand
           level: Scolaire
@@ -97,7 +97,7 @@ experiences:
     title: Expérience professionnelle
     info:
       - role: Chef de projets informatiques
-        time: 2020 - Present
+        time: 2020 - Aujourd'hui
         company: Euro Information Développement, Schiltigheim
         details: |
           Responsable d'une application permettant de gérer les donnees de 
@@ -109,14 +109,14 @@ experiences:
           Gestion d'un moteur de recherche des clients et fournisseurs d'un 
           grand nombre de sociétés du groupe.
       - role: Analyste-programmeur
-        time: 2012-2020
+        time: 2012 - 2020
         company: Euro Information Développement, Schiltigheim
         details: |
           - Responsable du moteur de recherche permettant de lister les fournisseurs et clients des filiales du Crédit Mutuel – 1 personne encadrée
           - Analyste programmeur sur l'application gérant la comptabilité des filiales du Crédit Mutuel
           - Analyste programmeur d'une application gérant les caractéristiques des clients / fournisseurs du Crédit Mutuel (2 personnes encadrées).
       - role: Analyste
-        time: 2011-2012
+        time: 2011 - 2012
         company: Logica, Illkirch-Graffenstaden
         details: |
           Analyse, développement et pilotage des activités bancaires et presse 
@@ -126,7 +126,7 @@ experiences:
             - Gestion des tournées de portage des journaux du Crédit Mutuel (pilotage)
             - Gestion des déclarations fiscales DAS2 (analyse et pilotage). Déclaration annuelle des commissions des sociétés non bancaires.
       - role: Analyste-programmeur
-        time: 2007-2011
+        time: 2007 - 2011
         company: Logica, Illkirch-Graffenstaden
         details: |
           Analyse et développement des activités bancaires et presse d'un 
@@ -136,31 +136,29 @@ experiences:
             - Gestion des transferts entre banques de livrets bleus – FICOBA (développement)
             - Gestion des tiers clients et fournisseurs (développement)
             - Gestion des « transferts faciles » (développement). Faciliter aux clients le changement de domiciliation bancaire dans le cadre d'un changement de banque.
+      - role: Stagiairen en informatique
+        time: 2005 - 2006 (2 stages de 6 semaines)
+        company: Alcatel-Lucent
+        details: |
+          Développement d’une application permettant de gérer les audits qualité de 
+          l’entreprise (Excel, Acces, Visual Basic).
+      - role: IGBMC – Travail de vacances
+        time: 2006 - 2007 (vacances scolaires)
+        company: IGBMC
+        details: |
+          Technicien animalerie pendant les vacances scolaires.
 
 certifications:
       title: Formations
       list:
-        - name: Sécurité des applications (CEH)
+        - name: Développer des applications web sécurisées (CEH)
           start: 2024
-          end: 2024
+          end: 
           organization: Euro Information Développement
           credentialid: 
           credentialurl: 
           credentialname: 
-          details: |
-            Details about cert. Lorem ipsum dolor sit amet, consectetur 
-            adipiscing elit.
-            Nullam eget orci purus. Nullam ultrices neque nibh. 
-            Aenean fermentum, felis vulputate suscipit accumsan, 
-            sem enim bibendum augue, sed convallis arcu lacus at dui. 
-            Pellentesque et nibh suscipit, vestibulum turpis eu, semper tortor. 
-            Praesent felis nibh, eleifend id eleifend id, dictum id enim. 
-            Praesent venenatis erat non augue suscipit consectetur. 
-            
-            Second paragraph. Sed eleifend enim ante, vitae efficitur purus 
-            fringilla vel. Ut euismod, sem sed vulputate venenatis, 
-            justo diam viverra velit, sed rhoncus leo leo eu justo.
-            Suspendisse placerat risus ante, sed porta nisi blandit at. 
+          details: 
         - name: Gestion des projets en mode Agile
           start: 2024
           end:
@@ -168,15 +166,7 @@ certifications:
           credentialid: 
           credentialurl: 
           credentialname: 
-          details: |
-            Older certification. Lorem ipsum dolor sit amet, consectetur 
-            adipiscing elit.
-            Nullam eget orci purus. Nullam ultrices neque nibh. 
-            Aenean fermentum, felis vulputate suscipit accumsan, 
-            sem enim bibendum augue, sed convallis arcu lacus at dui. 
-            Pellentesque et nibh suscipit, vestibulum turpis eu, semper tortor. 
-            Praesent felis nibh, eleifend id eleifend id, dictum id enim. 
-            Praesent venenatis erat non augue suscipit consectetur. 
+          details: 
         
 projects:
     title: Projets
@@ -185,6 +175,7 @@ projects:
       J'ai travaillé sur un certain nombre de projets personnels au fil 
       du temps, afin de garder un pied dans le monde de la programmation, 
       pour assurer une veille technologique. 
+      
     assignments:
       - title: TimesApp
         link: "#hook"
@@ -193,6 +184,10 @@ projects:
       - title: MemeBox
         link: "#"
         tagline: "Un projet visant à jouer un son aléatoire en cliquant sur un bouton. Ce projet simple est à destination des adolescents, et avait pour principal but deme permettre d'apprendre le framework React Native."
+      
+      - title: WebApti
+        link: "#"
+        tagline: "WebAPI C# interfacée sur la maison, et permettant d'ouvrir / fermer le store du balcon de mon appartement, lancer la musique, gérer le chauffage..."
 
       - title: Strapps
         link: "#"
@@ -203,7 +198,7 @@ projects:
         tagline: "Une application de conversation vocale avec une intelligence artificielle, de voix à voix (question posée par l'utilisateur en parlant, et l'intelligence artificielle repond)."
 
 skills:
-    title: Langages de programmation
+    title: Langages de programmation et outils
 
     toolset:
       - name: COBOL
@@ -215,8 +210,17 @@ skills:
       - name: SQL
         level: 95%
         
+      - name: JCL
+        level: 90%
+        
       - name: Visual Basic
         level: 90%
+        
+      - name: Docker
+        level: 75%
+        
+      - name: Gitlab
+        level: 75%
 
       - name: React Native
         level: 60%
