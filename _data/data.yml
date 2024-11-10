@@ -115,7 +115,7 @@ experiences:
             - Gestion des abonnements des différents journaux du Crédit Mutuel (pilotage)
             - Gestion des tournées de portage des journaux du Crédit Mutuel (pilotage)
             - Gestion des déclarations fiscales DAS2 (analyse et pilotage).  
-           
+          ---
             
       - role: Analyste-programmeur
         time: 2007 - 2011
