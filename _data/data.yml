@@ -15,18 +15,10 @@ sidebar:
     # Sidebar links
     email: matthieu.le.gac@gmail.com
     phone: 06 98 29 20 52
-    citizenship:
     website: haplo67.github.io/online-cv/ #do not add http://
     linkedin: matthieu-le-gac
-    xing: 
     github: haplo67
-    telegram: # add your nickname without '@' sign
-    gitlab:
-    bitbucket:
     twitter: '@haplo67'
-    stack-overflow: # Number/Username, e.g. 123456/alandoe
-    codewars:
-    goodreads: # Number-Username, e.g. 123456-alandoe
     pdf: https://haplo67.github.io/online-cv/default/sample.pdf
 
     languages:
@@ -124,8 +116,8 @@ experiences:
             - Gestion des projets convergence 2014 (pilotage)
             - Gestion des abonnements des différents journaux du Crédit Mutuel (pilotage)
             - Gestion des tournées de portage des journaux du Crédit Mutuel (pilotage)
-            - Gestion des déclarations fiscales DAS2 (analyse et pilotage).
-            
+            - Gestion des déclarations fiscales DAS2 (analyse et pilotage).  
+           
             
       - role: Analyste-programmeur
         time: 2007 - 2011
