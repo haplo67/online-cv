@@ -100,7 +100,7 @@ p {
   }
   .container-block {
     /*padding: 30px;*/
-    padding: 20px;
+    padding: 25px;
   }
   .container-block-title {
     text-transform: uppercase;
@@ -175,7 +175,7 @@ p {
     margin-bottom: 20px;
   }
   .section {
-    margin-bottom: 75px;
+    margin-bottom: 60px;
   }
 
   .experiences-section,
@@ -270,10 +270,6 @@ p {
   .level-bar-inner {
     height: 12px;
     background: lighten($theme-color, 15%);
-  }
-  .level-bar-inner-white {
-    height: 12px;
-    background: lighten(black, 15%);
   }
 }
 
