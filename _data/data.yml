@@ -125,6 +125,8 @@ experiences:
             - Gestion des abonnements des différents journaux du Crédit Mutuel (pilotage)
             - Gestion des tournées de portage des journaux du Crédit Mutuel (pilotage)
             - Gestion des déclarations fiscales DAS2 (analyse et pilotage).
+            
+            
       - role: Analyste-programmeur
         time: 2007 - 2011
         company: Logica, Illkirch-Graffenstaden
@@ -136,17 +138,6 @@ experiences:
             - Gestion des transferts entre banques de livrets bleus – FICOBA (développement)
             - Gestion des tiers clients et fournisseurs (développement)
             - Gestion des « transferts faciles » (développement). Faciliter aux clients le changement de domiciliation bancaire dans le cadre d'un changement de banque.
-      - role: Stagiairen en informatique
-        time: 2005 - 2006 (2 stages de 6 semaines)
-        company: Alcatel-Lucent
-        details: |
-          Développement d’une application permettant de gérer les audits qualité de 
-          l’entreprise (Excel, Acces, Visual Basic).
-      - role: IGBMC – Travail de vacances
-        time: 2006 - 2007 (vacances scolaires)
-        company: IGBMC
-        details: |
-          Technicien animalerie pendant les vacances scolaires.
 
 certifications:
       title: Formations
