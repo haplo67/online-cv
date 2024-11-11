@@ -49,7 +49,10 @@ sidebar:
         - item: Cuisine
           link:
           
-        - item: Bricolage\
+        - item: Bricolage\\
+          link: 
+          
+        - item:
           link: 
 
 career-profile:
@@ -114,7 +117,7 @@ experiences:
             - Gestion des projets convergence 2014 (pilotage)
             - Gestion des abonnements des différents journaux du Crédit Mutuel (pilotage)
             - Gestion des tournées de portage des journaux du Crédit Mutuel (pilotage)
-            - Gestion des déclarations fiscales DAS2 (analyse et pilotage).\
+            - Gestion des déclarations fiscales DAS2 (analyse et pilotage).\\
            
             
       - role: Analyste-programmeur
