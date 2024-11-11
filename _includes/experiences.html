@@ -28,6 +28,10 @@
       {{ experience.details | markdownify }}
     </div><!--//details-->
     {% endif %}
+    
+    {% if experience.linebreak %}
+    <br />
+    {% endif %}
 
   </div><!--//item-->
   {% endfor %}

@@ -108,7 +108,7 @@ experiences:
           - Analyste programmeur d'une application gérant les caractéristiques des clients / fournisseurs du Crédit Mutuel (2 personnes encadrées).
       
       - role: Analyste-programmeur
-        time: 2010 - 2011
+        time: 2010 - 2012
         company: Logica, Illkirch-Graffenstaden
         details: |
           Analyse, développement et pilotage des activités bancaires et presse 
@@ -118,6 +118,7 @@ experiences:
             - Gestion des tournées de portage des journaux du Crédit Mutuel (pilotage)
             - Gestion des déclarations fiscales DAS2 (analyse et pilotage).
             - Gestion de l'application gérant les caractéristiques des clients et fournisseurs du Crédit Mutuel, partie fonctionnelle et technique.
+        linebreak: true
             
       - role: Analyste-programmeur
         time: 2007 - 2011
