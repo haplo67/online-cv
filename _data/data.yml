@@ -133,7 +133,7 @@ experiences:
             - Gestion des « transferts faciles » (développement). Faciliter aux clients le changement de domiciliation bancaire dans le cadre d'un changement de banque.
 
 certifications:
-      title: Formations
+      title: Formations récentes
       list:
         - name: Développer des applications web sécurisées (CEH)
           start: 2024
@@ -182,7 +182,7 @@ projects:
         tagline: "Une application de conversation vocale avec une intelligence artificielle, de voix à voix (question posée par l'utilisateur en parlant, et l'intelligence artificielle repond)."
 
 skills:
-    title: Langages de programmation et outils
+    title: Connaissances
 
     toolset:
       - name: COBOL
@@ -219,7 +219,4 @@ skills:
         level: 55%
         
       - name: PHP
-        level: 50%
-        
-      - name: CSS
         level: 50%
